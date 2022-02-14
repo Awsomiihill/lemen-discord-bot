@@ -10,7 +10,7 @@ class ShutdownCommand extends Command {
 
     async exec(message) {
         console.log('Bot shutdown executed by ' + message.author.username);
-        await message.reply('Lemen shutdown.');
+        await message.reply('goobay men(((');
         await this.client.destroy();
         process.exit(0);
     }
