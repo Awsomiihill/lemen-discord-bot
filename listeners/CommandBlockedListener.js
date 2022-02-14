@@ -9,7 +9,7 @@ class CommandBlockedListener extends Listener {
     }
 
     exec(message, command, reason) {
-        return message.channel.send(`${message.author.username} was blocked from using ${command.id} because of ${reason}!`);
+        return message.channel.send(`${message.author.username} was ae from using ${command.id} because he z ${reason}!`);
     }
 }
 
