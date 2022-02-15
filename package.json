@@ -1,7 +1,7 @@
 {
-  "name": "lemen-discord-bot",
+  "name": "ukraine-bot",
   "version": "1.0.0",
-  "description": "A utility Discord bot written in JS.",
+  "description": "A utility Discord bot written in JS. but fucked up (NOTE: this bot is purely made for parodical and comedic purposes.)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,11 +13,11 @@
     "javascript",
     "js"
   ],
-  "author": "NikiGamePlay <nikigameplay@outlook.com>",
+  "author": "NikiGamePlay <nikigameplay@outlook.com>, awsomiihill <albanianoae@protonmail.com>"
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NikiGamePlay/lemen-discord-bot.git"
+    "url": "https://github.com/awsomiihill/lemen-discord-bot.git"
   },
   "dependencies": {
     "discord-akairo": "^7.5.6",

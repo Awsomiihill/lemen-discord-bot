@@ -12,4 +12,17 @@ class PingCommand extends Command {
     }
 }
 
+class OaeCommand extends Command {
+    constructor() {
+        super('slava', {
+           aliases: ['o','a','e'] 
+        });
+    }
+
+    exec(message) {
+        return message.reply('ukrainie');
+    }
+}
+
 module.exports = PingCommand;
+module.exports = OaeCommand;
