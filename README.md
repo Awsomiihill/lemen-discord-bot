@@ -1,10 +1,10 @@
 # Lemen Discord Bot v1.0.0-alpha1
-## A utility Discord bot written in JS.
+## A non-utility Discord bot written in JS.
 
 # Installing
 1. Clone the repository.
    ```sh
-   $ git clone https://github.com/NikiGamePlay/lemen-discord-bot
+   $ git clone https://github.com/Awsomiihill/lemen-discord-bot
    ```
 2. CD into the directory.
    ```sh
